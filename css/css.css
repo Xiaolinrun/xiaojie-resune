@@ -1,0 +1,34 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+*,body{ margin:0px; padding:0px; font-family:"微软雅黑";font-size: 16px !important;}
+.header_pjj,.banner_pjj,.footer_pjj.header_title{ min-width:1200px; max-width:1920px; width:100%; margin:auto;}
+.w{ width:1200px; margin:auto; color:#4d7181; overflow:hidden; clear:both;}
+.header_pjj .w h1{ display:inline; border-right:2px solid #4d7181; padding:0px 35px; float:left; line-height:50px; height:50px; font-size:50px; font-weight:200;}
+.header_pjj .w{ padding-top:20px;}
+.header_pjj_p{ width:400px; float:left;}
+.header_pjj_p p{ line-height:30px; display:block; padding:0px 20px; height:25px; font-weight:200; width:100%;}
+.header_pjj_p .p1{ font-size:16px;}
+.header_pjj_p .p2{ font-size:18px; font-weight:600;}
+.header_right{ float:right; width:300px;}
+.header_right img{ width:250px;}
+.header_title{ overflow:hidden;width:100%;min-width:1200px; max-width:1920px; margin:auto;}
+.header_title img{ width:100%;min-width:1200px; max-width:1920px; margin:auto;}
+.banner_pjj .w{ background:url(../images/border.jpg) repeat-y scroll 38px 0px;}
+.banner_pjj{ margin:-4px auto 0px auto;}
+.banner_title{ margin-top:20px;  color:#ffffff; overflow:hidden; width:1200px;}
+
+.banner_title .border-b h3{ font-weight:200; width:250px; font-size:30px; height:60px; line-height:60px; padding:0px 10px;float:left;background: #4e7282 url(../images/bannertitle_right.jpg) no-repeat scroll right top;}
+.banner_title img{ float:left; width:42px; }
+.border-b{ width:1158px; float:left; border-bottom:2px solid #4e7282;}
+.banner_table{ overflow:hidden; clear:both;}
+
+.banner_text{ width:68%; float:left; color:#656565; font-size:16px; padding:5%; font-weight:400;}
+.br{ width:100%; clear:both;}
+.banner_tr_three{ width:33.33333%; text-align:left;text-indent:2EM; line-height:40px; float:left;}
+.banner_tr{ width:50%; text-align:left; float:left; text-indent:2EM; line-height:40px;}
+.banner_photo{width:20%;float:left;height:350px;background-size: 583px;}
+.banner_photo  img{ width: 100%;}
+.banner_text01{ width:100%;float:left; color:#656565; font-size:16px; padding:0px 5%; font-weight:400;}
+.banner_text01 ul li{  width:90%; float:left; line-height:30px;}
+a{ text-decoration:none; color:#656565;}
